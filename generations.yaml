@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Acura_CL"
+
 generations:
   - name: "First Generation"
     start_year: 1997
@@ -5,6 +8,6 @@ generations:
     description: "The first generation Acura CL was introduced as a replacement for the Acura Legend coupe. Available with either a 2.2L or 2.3L inline-four or a 3.0L V6 engine, this front-wheel drive luxury coupe offered a balance of performance and comfort with a focus on value in the entry-luxury segment."
 
   - name: "Second Generation"
-    start_year: 2000
+    start_year: 2001
     end_year: 2003
-    description: "The second generation CL featured more aggressive styling and came exclusively with V6 power. The base model had a 3.2L V6 producing 225 HP, while the performance-oriented Type-S variant offered 260 HP. Notable for being one of the few luxury coupes with an available manual transmission option in the Type-S trim for the 2003 model year."
+    description: "The second generation CL was released as a 2001 model in March 2000, featuring a completely redesigned platform. It came exclusively with a 3.2L V6 engine, with the base model producing 225 HP and the performance-oriented Type-S variant offering 260 HP. Notable for being one of the few luxury coupes with an available manual transmission option in the Type-S trim for the 2003 model year. There was no 2000 model year."
